@@ -1,0 +1,8 @@
+.RedButton {
+    -unity-background-image-tint-color: rgba(214, 39, 39, 255);
+    background-color: rgba(207, 36, 36, 255);
+}
+
+.RedButton.BlueText{ color: rgba(36, 36, 207, 255);}
+
+.unity-button:hover {background-color: red;}
